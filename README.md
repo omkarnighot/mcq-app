@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To login and view this project use the below credentials:
+username: user@test.com 
+password: password@123
+
+Values are hard coded due to the given requirements.
+
+--------
+
+Requirements : 
+
+About the Application: You are required to develop a responsive React.js web application for assessment (MCQ - Multiple Choice Questions). Standalone Application;
+* Should have a Login Page (No API or OAuth required). Just use an Email/Password based (Hardcoded values are fine)
+* Once Authenticated, User will start the assessment by navigating through multiple choice questions (Single Answer/Multi-Answer questions). Questions/Answers could be loaded from xml/csv file and doesn't require any API integration.
+* Design and developing User Experience for Desktop Browser, Tablet (10 Inch) and a Phone (7 Inch) is desired.
+* Common features like Navigation between questions, Skip and return option, summary and submit assessment should be implemented. No real backend evaluation is required. 
+* Display a confirmation/assessment completion message at the end of assessment.
+
 ## Available Scripts
 
 In the project directory, you can run:
