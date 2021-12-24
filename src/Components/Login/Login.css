@@ -1,0 +1,45 @@
+body{
+  /* background-color: moccasin; */
+  /* background-color: #EAE7DC; */
+  /* background-color: rgba(235, 64, 52 ,0.9); */
+  background: #642B73;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #C6426E, #642B73);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #C6426E, #642B73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  /* background-color: #FBE8A6; */
+}
+
+.form-container{
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 5%;
+  height: 350px;
+  width: 290px;
+  margin: 9% auto;
+  box-shadow: 1px 1px 17px gray;
+  background-color: white;
+}
+h1{
+  color:gray;
+}
+input{
+  height: 40px;
+  width: 90%;
+  margin:  3% 0%;
+  padding: 2%;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+
+
+.login-btn{
+  width: 45%;
+  height :40px;
+  background-color: #4267B2;
+  color:white;
+  margin: 3% auto;
+  padding: 2%;
+  text-align: center;
+  border-radius: 12px;
+  border: transparent;
+}
